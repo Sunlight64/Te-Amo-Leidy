@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="diseño.css">
+	<title>Te Amo ❤️</title>
+	<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+</head>
+
+	<center>
+		<h1><b>💖😆Felices 3 Años Mi Amor Lindo😋💖</b></h1>
+	</center>
+
+<body>
+	
+	<center>
+		<div>
+	<p>Hola mi amor lindo, mi bello osito de felpa 🥰❤️<br>
+		<br>
+		Mi cielo... quiero que sepas que después de todos estos años de vida que Dios me a dado... estos últimos 3 años han sido los mejores de mi vida. Han sido tan hermosos por poder compartir ese tiempo contigo, con mi bebé hermosa😚<br>
+		<br>
+		Me siento feliz de conocerte y que podamos pasar esto... cada momento en el que estoy contigo no se siente el tiempo, pero cada segundo que estoy sin ti lo siento pesado y lo único que deseo es estar contigo y volverte a ver 🤧💕<br>
+		<br>
+		De estos últimos 3 años te agradezco por haber permanecido en mi vida, por formar tantos recuerdos, me siento afortunado de tener a una chica tan maravillosa a mi lado. <br>
+		<br>
+		Quiero hacerte recordar que te amo un montón y con todo mi corazón, deseo estar contigo en esta fecha tan hermosa que es donde cumplimos 3 hermosos y largos años donde he podido sentir todo tu amor, todo ese cariño que me has dado 💗<br>
+		<br> 
+		Eres la persona mas bella que se a cruzado en mi vida, Te Amo Leidy Sucely 😘🥰💞
+		<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap"  rel="stylesheet">
+	</p>
+		</div>
+	</center>
+
+</body>
+</html>
+
+body {
+	min-height: 100vh;
+	background: url(file:///Users/wilsonosorio/Desktop/Aniversario/Fondo.jpg) no-repeat center center fixed;
+	background-size: cover;
+	background-image: center;
+}
+
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+
+
+
+
+body p{
+	margin-top: 50px;
+	margin-right: 300px;
+	margin-left: 300px;
+	font-family: 'Lobster', cursive;
+	font-size: 25px;
+	font-weight: 100;
+	
+}
